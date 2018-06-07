@@ -1,2 +1,3 @@
 #ignorar carpeta con csvs
 /data
+/.ipynb_checkpoints
